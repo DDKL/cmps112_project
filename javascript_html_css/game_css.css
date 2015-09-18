@@ -1,0 +1,23 @@
+#Intro {
+    margin-top:10px;
+}
+#Arrows {
+    margin-left:50px;
+    margin-top:10px;
+}
+    .arrow {
+        text-decoration:none;
+        padding:5px 10px ;
+        background-color:#dddddd;
+        color:#333333;
+    }
+    .arrow:hover {
+        background-color:#666666;
+        color:#ffffff;
+    }
+#Distance {
+    margin-top:10px;
+}
+#GameEnd {
+    display:none;
+}
